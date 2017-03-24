@@ -1,6 +1,6 @@
 // numeral.js locale configuration
 // locale : Vietnamese (vi)
-// author : Tran Thai Son : https://github.com/tthsonvn
+// author : Tran Thai Son : https://github.com/tthson
 
 (function (global, factory) {
     if (typeof define === 'function' && define.amd) {
